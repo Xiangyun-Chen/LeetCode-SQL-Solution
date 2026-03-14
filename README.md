@@ -28,8 +28,9 @@ All solution files are named in the following format:
 | :---: | :--- | :---: | :--- | :---: |
 | 1757 | [Recyclable and Low Fat Product](https://leetcode.cn/problems/recyclable-and-low-fat-products/description/) | 🟢 Easy | `WHERE` | [SQL](1757-Recyclable-and-Low-Fat-Products.sql)|
 |584|[Find Customer Referee](https://leetcode.cn/problems/find-customer-referee/)|🟢 Easy |`NULL`值处理|[SQL](584-Find-Customer-Referee.sql)|
-| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | 🟡 Medium | `LIMIT`, `OFFSET`, `Function` | [SQL](./0177-Nth-Highest-Salary.sql)|
 |595|[Big Countries](https://leetcode.cn/problems/big-countries)|🟢 Easy |`OR`条件查询|[SQL](595-Big-Countries.sql)|
+|1148|[Article Viwes Ⅰ](https://leetcode.cn/problems/article-views-i)|🟢 Easy |`DISTINCT`|[SQL](1148-Article-Views-Ⅰ.sql)|
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | 🟡 Medium | `LIMIT`, `OFFSET`, `Function` | [SQL](./0177-Nth-Highest-Salary.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
