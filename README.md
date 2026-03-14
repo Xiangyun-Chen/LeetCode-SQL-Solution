@@ -27,6 +27,7 @@ All solution files are named in the following format:
 | 题号 (ID) | 题目 (Problem Title) | 难度 (Difficulty) | 核心考点 (Tags) | 解答 (Solution) |
 | :---: | :--- | :---: | :--- | :---: |
 | 1757 | [Recyclable and Low Fat Product](https://leetcode.cn/problems/recyclable-and-low-fat-products/description/) | 🟢 Easy | `WHERE` | [SQL](1757-Recyclable-and-Low-Fat-Products.sql)|
+|584|[Find Customer Referee](https://leetcode.cn/problems/find-customer-referee/)|🟢 Easy |`NULL`值处理|[SQL](584-Find-Customer-Referee.sql)|
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | 🟡 Medium | `LIMIT`, `OFFSET`, `Function` | [SQL](./0177-Nth-Highest-Salary.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
