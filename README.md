@@ -30,6 +30,7 @@ All solution files are named in the following format:
 |584|[Find Customer Referee](https://leetcode.cn/problems/find-customer-referee/)|🟢 Easy |`NULL`值处理|[SQL](584-Find-Customer-Referee.sql)|
 |595|[Big Countries](https://leetcode.cn/problems/big-countries)|🟢 Easy |`OR`条件查询|[SQL](595-Big-Countries.sql)|
 |1148|[Article Viwes Ⅰ](https://leetcode.cn/problems/article-views-i)|🟢 Easy |`DISTINCT`|[SQL](1148-Article-Views-Ⅰ.sql)|
+|1683|[Invalid tweets](https://leetcode.cn/problems/invalid-tweets)|🟢 Easy |`LENGTH()`|[SQL](1683-Invalid-Tweets.sql)|
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | 🟡 Medium | `LIMIT`, `OFFSET`, `Function` | [SQL](./0177-Nth-Highest-Salary.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
