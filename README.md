@@ -33,6 +33,7 @@ All solution files are named in the following format:
 |1683|[Invalid tweets](https://leetcode.cn/problems/invalid-tweets)|🟢 Easy |`LENGTH()`|[SQL](1683-Invalid-Tweets.sql)|
 |1378|[Replace Employee ID With The Unique Identifier](https://leetcode.cn/problems/replace-employee-id-with-the-unique-identifier)|🟢 Easy |`LEFT JOIN`|[SQL](1378-Replace-Employee-ID-With-The-Unique-Identifier.sql)|
 |1068|[Product Sales Analysis Ⅰ](https://leetcode.cn/problems/product-sales-analysis-i)|🟢 Easy |`JOIN`|[SQL](1068-Product-Sales-Analysis-Ⅰ.sql)|
+|1581|[Customers Who Visited But Did Not Make Any Transactions](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions)|🟢 Easy |`COUNT()``LEFT JOIN``GROUP BY`|[SQL](1581-Customers-Who-Visited-But-Did-Not-Make-Any-Trasactions.sql)|
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | 🟡 Medium | `LIMIT`, `OFFSET`, `Function` | [SQL](./0177-Nth-Highest-Salary.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
