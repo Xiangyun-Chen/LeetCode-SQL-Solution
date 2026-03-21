@@ -38,7 +38,7 @@ All solution files are named in the following format:
 |1661|[Average Time of Process Per Machine](https://leetcode.cn/problems/average-time-of-process-per-machine)|🟢 Easy |`JOIN`自连接|[SQL](1661-Average-Time-of-Process-Per-Machine.sql)|
 |577|[Employee Bonus](https://leetcode.cn/problems/employee-bonus)|🟢 Easy |`LEFT JOIN`|[SQL](577-Employee-Bonus.sql)|
 |1280|[Students And Examinations](https://leetcode.cn/problems/students-and-examinations)|🟢 Easy |`CROSS JOIN`交叉连接,`LEFT JOIN`|[SQL](1280-Students-And-Examinations.sql)|
-|570|[Managers With at Least 5 Direct Reports](https://leetcode.cn/problems/managers-with-at-least-5-direct-reports)|🟢 Easy |`HAVING`|[SQL](570-Managers-With-At-Least-5-Direct-Reports)|
+|570|[Managers With at Least 5 Direct Reports](https://leetcode.cn/problems/managers-with-at-least-5-direct-reports)|🟢 Easy |`HAVING`|[SQL](570-Managers-With-At-Least-5-Direct-Reports.sql)|
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | 🟡 Medium | `LIMIT`, `OFFSET`, `Function` | [SQL](./0177-Nth-Highest-Salary.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
