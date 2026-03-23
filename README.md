@@ -40,6 +40,7 @@ All solution files are named in the following format:
 |1280|[Students And Examinations](https://leetcode.cn/problems/students-and-examinations)|🟢 Easy |`CROSS JOIN`交叉连接,`LEFT JOIN`|[SQL](1280-Students-And-Examinations.sql)|
 |570|[Managers With at Least 5 Direct Reports](https://leetcode.cn/problems/managers-with-at-least-5-direct-reports)| 🟡 Medium |`HAVING`|[SQL](570-Managers-With-At-Least-5-Direct-Reports.sql)|
 |1934|[Confirmation Rate](https://leetcode.cn/problems/confirmation-rate)| 🟡 Medium |`ROUND()`,`IFNULL()`,`SUM()`,`COUNT()`,`LEFT JOIN`|[SQL](1934-Confirmation-Rate.sql)|
+|620|[Not Boring Movies](https://leetcode.cn/problems/not-boring-movies)|🟢 Easy |`MOD()`|[SQL](620-Not-Boring-Movies.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
