@@ -42,6 +42,7 @@ All solution files are named in the following format:
 |1934|[Confirmation Rate](https://leetcode.cn/problems/confirmation-rate)| 🟡 Medium |`ROUND()`,`IFNULL()`,`SUM()`,`COUNT()`,`LEFT JOIN`|[SQL](1934-Confirmation-Rate.sql)|
 |620|[Not Boring Movies](https://leetcode.cn/problems/not-boring-movies)|🟢 Easy |`MOD()`|[SQL](620-Not-Boring-Movies.sql)|
 |1251|[Average Selling Price](https://leetcode.cn/problems/average-selling-price)|🟢 Easy |`IFNULL()`,`ROUNG()`,`SUM()``LEFT JOIN`|[SQL](1251-Average-Selling-Price.sql)|
+|1075|[Project Employee Ⅰ](https://leetcode.cn/problems/project-employees-i)|🟢 Easy |`AVG()`,`LEFT JOIN`|[SQL](1075-Project-Employee-Ⅰ.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
