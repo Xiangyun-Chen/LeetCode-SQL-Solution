@@ -43,6 +43,7 @@ All solution files are named in the following format:
 |620|[Not Boring Movies](https://leetcode.cn/problems/not-boring-movies)|🟢 Easy |`MOD()`|[SQL](620-Not-Boring-Movies.sql)|
 |1251|[Average Selling Price](https://leetcode.cn/problems/average-selling-price)|🟢 Easy |`IFNULL()`,`ROUNG()`,`SUM()``LEFT JOIN`|[SQL](1251-Average-Selling-Price.sql)|
 |1075|[Project Employee Ⅰ](https://leetcode.cn/problems/project-employees-i)|🟢 Easy |`AVG()`,`LEFT JOIN`|[SQL](1075-Project-Employee-Ⅰ.sql)|
+|1633|[Percentage of Users Attended a Contest](https://leetcode.cn/problems/percentage-of-users-attended-a-contest)|🟢 Easy |`GROUP BY`,`ORDER BY`|[SQL](1633-Percentage-of-Users-Attended-a-Contest.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
