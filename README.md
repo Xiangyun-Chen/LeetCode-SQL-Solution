@@ -45,6 +45,7 @@ All solution files are named in the following format:
 |1075|[Project Employee Ⅰ](https://leetcode.cn/problems/project-employees-i)|🟢 Easy |`AVG()`,`LEFT JOIN`|[SQL](1075-Project-Employee-Ⅰ.sql)|
 |1633|[Percentage of Users Attended a Contest](https://leetcode.cn/problems/percentage-of-users-attended-a-contest)|🟢 Easy |`GROUP BY`,`ORDER BY`|[SQL](1633-Percentage-of-Users-Attended-a-Contest.sql)|
 |1211|[Queries Quality and Percentage](https://leetcode.cn/problems/queries-quality-and-percentage)|🟢 Easy |`SUM()`,`CASEN WHEN`|[SQL](1211-Queries-Quality-and-Percentage.sql)|
+|1193|[Monthly Transactions Ⅰ](https://leetcode.cn/problems/monthly-transactions-i)| 🟡 Medium |`DATE_FORMAT()`,`SUM()`|[SQL](1193-Monthly-Transactions-Ⅰ.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
