@@ -49,6 +49,7 @@ All solution files are named in the following format:
 |1174|[Immediate Food Delivery Ⅱ](https://leetcode.cn/problems/immediate-food-delivery-ii)| 🟡 Medium |`ROW_NUMBER()`|[SQL](1174-Immediate-Food-Delivery-Ⅱ.sql)|
 |550|[Game Play Analysis Ⅳ](https://leetcode.cn/problems/game-play-analysis-iv)| 🟡 Medium |`DATEDIFF()`,`MIN()OVER(PARTITION BY)`|[SQL](550-Game-Play-Analysis-Ⅳ.sql)|
 |2356|[Number of Unique Subjects Taught by Each Teacher](https://leetcode.cn/problems/number-of-unique-subjects-taught-by-each-teacher)|🟢 Easy |`GROUP BY`|[SQL](2356-Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql)|
+|1141|[User Activity for the Past 30 Days Ⅰ](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i)|🟢 Easy |`DISTINCT`|[SQL](1141-User-Activity-for-the-Past-30-Days-Ⅱ.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
