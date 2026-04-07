@@ -50,6 +50,7 @@ All solution files are named in the following format:
 |550|[Game Play Analysis Ⅳ](https://leetcode.cn/problems/game-play-analysis-iv)| 🟡 Medium |`DATEDIFF()`,`MIN()OVER(PARTITION BY)`|[SQL](550-Game-Play-Analysis-Ⅳ.sql)|
 |2356|[Number of Unique Subjects Taught by Each Teacher](https://leetcode.cn/problems/number-of-unique-subjects-taught-by-each-teacher)|🟢 Easy |`GROUP BY`|[SQL](2356-Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql)|
 |1141|[User Activity for the Past 30 Days Ⅰ](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i)|🟢 Easy |`DISTINCT`|[SQL](1141-User-Activity-for-the-Past-30-Days-Ⅱ.sql)|
+|1084|[Sales Analysis Ⅲ](https://leetcode.cn/problems/sales-analysis-iii)|🟢 Easy |`MIN()`,`MAX()`|[SQL](1084-Sales-Analysis-Ⅲ.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
