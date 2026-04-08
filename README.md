@@ -51,6 +51,7 @@ All solution files are named in the following format:
 |2356|[Number of Unique Subjects Taught by Each Teacher](https://leetcode.cn/problems/number-of-unique-subjects-taught-by-each-teacher)|🟢 Easy |`GROUP BY`|[SQL](2356-Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql)|
 |1141|[User Activity for the Past 30 Days Ⅰ](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i)|🟢 Easy |`DISTINCT`|[SQL](1141-User-Activity-for-the-Past-30-Days-Ⅱ.sql)|
 |1084|[Sales Analysis Ⅲ](https://leetcode.cn/problems/sales-analysis-iii)|🟢 Easy |`MIN()`,`MAX()`|[SQL](1084-Sales-Analysis-Ⅲ.sql)|
+|596|[Classes With at Least 5 Students](https://leetcode.cn/problems/classes-with-at-least-5-students)|🟢 Easy |`GROUP BY`,`HAVING`|[SQL](596-Classes-With-at-Least-5-Students.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
