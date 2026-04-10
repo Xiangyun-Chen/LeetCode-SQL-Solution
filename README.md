@@ -53,6 +53,7 @@ All solution files are named in the following format:
 |1084|[Sales Analysis Ⅲ](https://leetcode.cn/problems/sales-analysis-iii)|🟢 Easy |`MIN()`,`MAX()`|[SQL](1084-Sales-Analysis-Ⅲ.sql)|
 |596|[Classes With at Least 5 Students](https://leetcode.cn/problems/classes-with-at-least-5-students)|🟢 Easy |`GROUP BY`,`HAVING`|[SQL](596-Classes-With-at-Least-5-Students.sql)|
 |1729|[Find Followers Count](https://leetcode.cn/problems/find-followers-count)|🟢 Easy |`COUNT()`|[SQL](1729-Find-Followers-Count.sql)|
+|619|[Biggest Single Number](https://leetcode.cn/problems/biggest-single-number)|🟢 Easy |`MAX()`,临时表|[SQL](619-Biggest-Single-Number.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
