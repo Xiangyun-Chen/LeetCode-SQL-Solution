@@ -58,6 +58,7 @@ All solution files are named in the following format:
 |1045|[Customers Who Bought All Products](https://leetcode.cn/problems/customers-who-bought-all-products)| 🟡 Medium |`GROUP BY`,`HAVING`|[SQL](1045-Customers-Who-Bought-All-Products.sql)|
 |1789|[Primary Department for Each Employee](https://leetcode.cn/problems/primary-department-for-each-employee)|🟢 Easy |`HAVING`|[SQL](1789-Primary-Department-for-Each-Employee.sql)|
 |610|[Triangle Judgement](https://leetcode.cn/problems/triangle-judgement)|🟢 Easy |`CASE WHEN`|[SQL](610-Triangle-Judgement.sql)|
+|180|[Consecutive Numbers](https://leetcode.cn/problems/consecutive-numbers)| 🟡 Medium |`WITH ... AS()`|[SQL](180-Consecutive-Numbers.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
