@@ -61,6 +61,7 @@ All solution files are named in the following format:
 |180|[Consecutive Numbers](https://leetcode.cn/problems/consecutive-numbers)| 🟡 Medium |`WITH ... AS()`|[SQL](180-Consecutive-Numbers.sql)|
 |1164|[Product Price at a Given Date](https://leetcode.cn/problems/product-price-at-a-given-date)| 🟡 Medium |`ROW_NUMBER()`,`COALESCE()`,`LEFT JOIN`|[SQL](1164-Product-Price-at-a-Given-Date.sql)|
 |1204|[Last Person to Fit in The Bus](https://leetcode.cn/problems/last-person-to-fit-in-the-bus)| 🟡 Medium |`SUN()OVER()`,`ORDER BY`,`LIMIT 1`|[SQL](1204-Last-Person-to-Fit-in-The-Bus.sql)|
+|1907|[Count Salary Categories](https://leetcode.cn/problems/count-salary-categories)| 🟡 Medium |`UNION`,`SUM(CASE WHEN...)`|[SQL](1907-Count-Salary-Categories.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
