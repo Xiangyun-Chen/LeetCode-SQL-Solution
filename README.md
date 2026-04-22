@@ -64,6 +64,7 @@ All solution files are named in the following format:
 |1907|[Count Salary Categories](https://leetcode.cn/problems/count-salary-categories)| 🟡 Medium |`UNION`,`SUM(CASE WHEN...)`|[SQL](1907-Count-Salary-Categories.sql)|
 |1978|[Employees Whose Manager Left the Company](https://leetcode.cn/problems/employees-whose-manager-left-the-company)|🟢 Easy |`NOT IN`,`IS NOT NULL`|[SQL](1978-Employees-Whose-Manager-Left-the-Company.sql)|
 |626|[Exchange Seats](https://leetcode.cn/problems/exchange-seats)| 🟡 Medium |`COALESCE()`,`LEAG()`,`LAG()`,Window Function|[SQL](626-Exchange-Seats.sql)|
+|1341|[Movie Rating](https://leetcode.cn/problems/movie-rating)| 🟡 Medium |`LIMIT 1`,`UNION ALL`|[SQL](1341-Movie-Rating.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
