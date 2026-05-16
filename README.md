@@ -66,6 +66,7 @@ All solution files are named in the following format:
 |626|[Exchange Seats](https://leetcode.cn/problems/exchange-seats)| 🟡 Medium |`COALESCE()`,`LEAG()`,`LAG()`,Window Function|[SQL](626-Exchange-Seats.sql)|
 |1341|[Movie Rating](https://leetcode.cn/problems/movie-rating)| 🟡 Medium |`LIMIT 1`,`UNION ALL`|[SQL](1341-Movie-Rating.sql)|
 |1321|[Restaurant Growth](https://leetcode.cn/problems/restaurant-growth)| 🟡 Medium |`SUM()`,Window Fuction,`DATEDIFF()`|[SQL](1321-Restaurant-Growth.sql)|
+|602|[Friend Request Ⅱ Who Has the Most friends](https://leetcode.cn/problems/friend-requests-ii-who-has-the-most-friends)| 🟡 Medium |'GROUP BY''LIMIT 1'|[SQL](602-Friend-Request-Ⅱ-Who-Has-the-Most-friend.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | `DENSE_RANK()`, Window Function | [SQL](./0185-Department-Top-Three-Salaries.sql) |
 | ... | ... | ... | ... | ... |
 
