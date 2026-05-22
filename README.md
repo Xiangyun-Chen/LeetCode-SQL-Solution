@@ -69,6 +69,7 @@ All solution files are named in the following format:
 |602|[Friend Request Ⅱ Who Has the Most friends](https://leetcode.cn/problems/friend-requests-ii-who-has-the-most-friends)| 🟡 Medium |`GROUP BY`,`LIMIT 1`|[SQL](602-Friend-Requests-Ⅱ-Who-Has-the-Most-friends.sql)|
 |585|[Investment In 2016](https://leetcode.cn/problems/investments-in-2016)| 🟡 Medium |`ROUND(SUM(),)`,Window Fuction|[SQL](585-Investment-In-2016.sql)|
 | 185 | [Department Top Three Salaries](https://leetcode.cn/problems/department-top-three-salaries) | 🔴 Hard |`DENSE_RANK()`, Window Function|[SQL](185-Department-Top-Three-Salaries.sql) |
+|1667|[Fix Names in a Table](https://leetcode.cn/problems/fix-names-in-a-table)|🟢 Easy |`CONCAT()`,`LEFT()`,`UPPER()`,LOWER()`,`SUBSTRING()`,`ORDER BY`|[SQL](1667-Fix-Names-in-a-Table.sql)|
 | ... | ... | ... | ... | ... |
 
 
