@@ -71,6 +71,7 @@ All solution files are named in the following format:
 | 185 | [Department Top Three Salaries](https://leetcode.cn/problems/department-top-three-salaries) | 🔴 Hard |`DENSE_RANK()`, Window Function|[SQL](185-Department-Top-Three-Salaries.sql) |
 |1667|[Fix Names in a Table](https://leetcode.cn/problems/fix-names-in-a-table)|🟢 Easy |`CONCAT()`,`LEFT()`,`UPPER()`,`LOWER()`,`SUBSTRING()`,`ORDER BY`|[SQL](1667-Fix-Names-in-a-Table.sql)|
 |1527|[Patients With a Condition](https://leetcode.cn/problems/patients-with-a-condition)|🟢 Easy |`LIKE`模糊匹配,%代表任意长度字符|[SQL](1527-Patients-With-a-Condition.sql)|
+|196|[Delete Duplicate Emails](https://leetcode.cn/problems/delete-duplicate-emails)|🟢 Easy |`DELETE`,`INNER JOIN`|[SQL](196-Delete-Duplicate-Emails.sql)|
 | ... | ... | ... | ... | ... |
 
 
