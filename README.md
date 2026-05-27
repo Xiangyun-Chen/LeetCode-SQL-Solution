@@ -73,6 +73,7 @@ All solution files are named in the following format:
 |1527|[Patients With a Condition](https://leetcode.cn/problems/patients-with-a-condition)|🟢 Easy |`LIKE`模糊匹配,%代表任意长度字符|[SQL](1527-Patients-With-a-Condition.sql)|
 |196|[Delete Duplicate Emails](https://leetcode.cn/problems/delete-duplicate-emails)|🟢 Easy |`DELETE`,`INNER JOIN`|[SQL](196-Delete-Duplicate-Emails.sql)|
 |176|[Second Higest Salary](https://leetcode.cn/problems/second-highest-salary)| 🟡 Medium |`DENSE_RANK()`,Window Function,`CASE WHEN`|[SQL](176-Second-Highest-Salary.sql)|
+|1484|[Group Sold Products by The date](https://leetcode.cn/problems/group-sold-products-by-the-date)|🟢 Easy |`GROUP_CONCAT()`,`COUNT()`,`DISTINCT`|[SQL](1484-Group-Sold-Products-by-The-date.sql)|
 | ... | ... | ... | ... | ... |
 
 
