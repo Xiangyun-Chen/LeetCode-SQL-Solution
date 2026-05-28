@@ -74,6 +74,7 @@ All solution files are named in the following format:
 |196|[Delete Duplicate Emails](https://leetcode.cn/problems/delete-duplicate-emails)|🟢 Easy |`DELETE`,`INNER JOIN`|[SQL](196-Delete-Duplicate-Emails.sql)|
 |176|[Second Higest Salary](https://leetcode.cn/problems/second-highest-salary)| 🟡 Medium |`DENSE_RANK()`,Window Function,`CASE WHEN`|[SQL](176-Second-Highest-Salary.sql)|
 |1484|[Group Sold Products by The date](https://leetcode.cn/problems/group-sold-products-by-the-date)|🟢 Easy |`GROUP_CONCAT()`,`COUNT()`,`DISTINCT`|[SQL](1484-Group-Sold-Products-by-The-Date.sql)|
+|1327|[List The Products Ordered in a Period](https://leetcode.cn/problems/list-the-products-ordered-in-a-period)|🟢 Easy |`JOIN`,`BETWEEN AND`,`GROUP BY`,`HAVING`|[SQL](1327-List-The-Products-Ordered-in-a-Period.sql)|
 | ... | ... | ... | ... | ... |
 
 
