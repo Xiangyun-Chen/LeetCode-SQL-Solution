@@ -75,10 +75,10 @@ All solution files are named in the following format:
 |176|[Second Higest Salary](https://leetcode.cn/problems/second-highest-salary)| 🟡 Medium |`DENSE_RANK()`,Window Function,`CASE WHEN`|[SQL](176-Second-Highest-Salary.sql)|
 |1484|[Group Sold Products by The date](https://leetcode.cn/problems/group-sold-products-by-the-date)|🟢 Easy |`GROUP_CONCAT()`,`COUNT()`,`DISTINCT`|[SQL](1484-Group-Sold-Products-by-The-Date.sql)|
 |1327|[List The Products Ordered in a Period](https://leetcode.cn/problems/list-the-products-ordered-in-a-period)|🟢 Easy |`JOIN`,`BETWEEN AND`,`GROUP BY`,`HAVING`|[SQL](1327-List-The-Products-Ordered-in-a-Period.sql)|
-| ... | ... | ... | ... | ... |
+|1517|[Find Users With Valid E-mail](https://leetcode.cn/problems/find-users-with-valid-e-mails)|🟢 Easy |`REGEXP_LIKE`| [SQL](1517-Find-Users-With-Valid-E-mails.sql)|
 
 
-*(Note: The table above is continuously updated as I solve more problems.)*
+*(Note: The table above has been fully updated)*
 
 ---
 **📫 Let's Connect:** If you have better queries or optimization ideas, feel free to reach out!
